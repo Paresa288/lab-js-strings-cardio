@@ -19,7 +19,7 @@ console.log(string1.indexOf("j"));
 const string2 = "ABCDEFGHJKLO";
 
 // Your code here...
-
+console.log(`${string2[2]}${string2[11]}${string2[11]}${string2[10]}`);
 
 
 
@@ -32,7 +32,7 @@ const string3 = "Na";
 
 // Your code here...
 
-
+console.log(`${string3.repeat(4)} Batman!`);
 
 
 /*******************************************
