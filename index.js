@@ -10,7 +10,6 @@ const string1 = "My favorite dessert is jello";
 console.log(string1.indexOf("j"));
 
 
-
 /*******************************************
     Iteration 2 | Concatenate Characters
 *******************************************/
